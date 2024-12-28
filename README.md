@@ -9,3 +9,5 @@ Schedule preview? Now solve it with a single button!
 Simply click the button to copy the script, then paste it into the console tab (F12) to run.
 <br>
 You can now preview your schedule.
+
+https://chromewebstore.google.com/detail/knusyinputinjector/infimmdahlbodbbagbhmkjmfpkkaenph
